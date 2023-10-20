@@ -27,6 +27,6 @@ Funciones del proyecto:
 * Registro de sensores
 
 ## Instalacion
-acceda a ambas carpetas (crias y criasBackend) y ejecute npm install seguido de npm start para correr el proyecto
+acceda a ambas carpetas (criasFrontend y criasBackend) y ejecute npm install seguido de npm start para correr el proyecto
 
 
