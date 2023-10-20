@@ -26,7 +26,7 @@ Funciones del proyecto:
 * Clasificacion de carne
 * Registro de sensores
 
-##Instalacion
+## Instalacion
 acceda a ambas carpetas (crias y criasBackend) y ejecute npm install seguido de npm start para correr el proyecto
 
 
